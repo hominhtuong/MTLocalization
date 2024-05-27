@@ -1,0 +1,1862 @@
+{
+"sourceLanguage" : "en",
+"strings" : {
+"txt_hello": {
+"extractionState" : "manual",
+"localizations" : {
+"en" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hello"
+}
+},
+"af" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hola"
+}
+},
+"ar" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "مرحبًا"
+}
+},
+"hy" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Բարեւ"
+}
+},
+"az" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Salam"
+}
+},
+"eu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Kaixo"
+}
+},
+"be" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "добры дзень"
+}
+},
+"bn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "হ্যালো"
+}
+},
+"bg" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Здравейте"
+}
+},
+"my" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "မင်္ဂလာပါ"
+}
+},
+"ca" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hola"
+}
+},
+"zh-rCN" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "你好"
+}
+},
+"zh-rTW" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "你好"
+}
+},
+"hr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "zdravo"
+}
+},
+"cs" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ahoj"
+}
+},
+"da" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hej"
+}
+},
+"nl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hallo"
+}
+},
+"et" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tere"
+}
+},
+"fi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hei"
+}
+},
+"fr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Bonjour"
+}
+},
+"de" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hallo"
+}
+},
+"el" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Γειά σου"
+}
+},
+"iw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "שלום"
+}
+},
+"hi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "नमस्ते"
+}
+},
+"hu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Helló"
+}
+},
+"is" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Halló"
+}
+},
+"id" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Halo"
+}
+},
+"in" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Halo"
+}
+},
+"it" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ciao"
+}
+},
+"ja" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "こんにちは"
+}
+},
+"kn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ನಮಸ್ಕಾರ"
+}
+},
+"km" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ជំរាបសួរ"
+}
+},
+"ko" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "안녕하세요"
+}
+},
+"lo" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ສະບາຍດີ"
+}
+},
+"lv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sveiki"
+}
+},
+"lt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sveiki"
+}
+},
+"mk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Здраво"
+}
+},
+"ms" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hello"
+}
+},
+"ml" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ഹലോ"
+}
+},
+"mr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "नमस्कार"
+}
+},
+"mn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Сайн уу"
+}
+},
+"ne" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "नमस्ते"
+}
+},
+"nb" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hallo"
+}
+},
+"fa" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "سلام"
+}
+},
+"pl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Cześć"
+}
+},
+"pt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Olá"
+}
+},
+"ro" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Buna ziua"
+}
+},
+"ru" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Привет"
+}
+},
+"sr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Здраво"
+}
+},
+"si" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ආයුබෝවන්"
+}
+},
+"sk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ahoj"
+}
+},
+"sl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "zdravo"
+}
+},
+"es" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hola"
+}
+},
+"sw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Habari"
+}
+},
+"sv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Hallå"
+}
+},
+"te" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "హలో"
+}
+},
+"th" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "สวัสดี"
+}
+},
+"tr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Merhaba"
+}
+},
+"uk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Привіт"
+}
+},
+"vi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Xin chào"
+}
+},
+"zu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sawubona"
+}
+}
+
+}
+},"txt_down_the_line": {
+"extractionState" : "manual",
+"localizations" : {
+"en" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Down\nThe Line"
+}
+},
+"af" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Abajo de la línea"
+}
+},
+"ar" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "تحت الخط"
+}
+},
+"hy" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ներքև\nԳիծը"
+}
+},
+"az" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Aşağı\nXətt"
+}
+},
+"eu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Behera\nLerroa"
+}
+},
+"be" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Уніз\nЛінія"
+}
+},
+"bn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "নিচে\nলাইন"
+}
+},
+"bg" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Надолу\nлинията"
+}
+},
+"my" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\n လိုင်းဆင်း"
+}
+},
+"ca" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sota la línia"
+}
+},
+"zh-rCN" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "沿着\n线"
+}
+},
+"zh-rTW" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "沿著\n線"
+}
+},
+"hr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Niz\nliniju"
+}
+},
+"cs" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Dolů\nThe Line"
+}
+},
+"da" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ned\nLinjen"
+}
+},
+"nl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Omlaag\nDe lijn"
+}
+},
+"et" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Kunagi hiljem"
+}
+},
+"fi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ruodussa"
+}
+},
+"fr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sur toute la ligne"
+}
+},
+"de" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Auf der ganzen Linie"
+}
+},
+"el" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Κάτω\nΗ Γραμμή"
+}
+},
+"iw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "למטה\nהקו"
+}
+},
+"hi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "आगे चल कर"
+}
+},
+"hu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Le a pályáról"
+}
+},
+"is" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Niður\nLínan"
+}
+},
+"id" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Turun\nGaris"
+}
+},
+"in" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Turun\nGaris"
+}
+},
+"it" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Giù\nLa linea"
+}
+},
+"ja" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ダウン\nザ・ライン"
+}
+},
+"kn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ಕೆಳಗೆ\nದಿ ಲೈನ್"
+}
+},
+"km" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ចុះ\nបន្ទាត់"
+}
+},
+"ko" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "아래로\n라인"
+}
+},
+"lo" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ລົງ\nສາຍ"
+}
+},
+"lv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Lejup\nlīnija"
+}
+},
+"lt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Žemyn\nlinija"
+}
+},
+"mk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Долу\nЛинијата"
+}
+},
+"ms" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Turun\nGarisan"
+}
+},
+"ml" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "താഴേക്ക്\nലൈൻ"
+}
+},
+"mr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "रेषेच्या खालच्या बाजूला"
+}
+},
+"mn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Доош\nThe Line"
+}
+},
+"ne" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "तल\nरेखा"
+}
+},
+"nb" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ned linjen"
+}
+},
+"fa" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "پایین خط"
+}
+},
+"pl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "W dół\nLinia"
+}
+},
+"pt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Abaixo da linha"
+}
+},
+"ro" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Jos\nLinia"
+}
+},
+"ru" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "По линии"
+}
+},
+"sr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Довн\nТхе Лине"
+}
+},
+"si" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "පහළ\nරේඛාව"
+}
+},
+"sk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Dole čiarov"
+}
+},
+"sl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Dol\nPo črti"
+}
+},
+"es" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Abajo de la línea"
+}
+},
+"sw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Chini\nMstari"
+}
+},
+"sv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Nedåt\nlinjen"
+}
+},
+"te" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "డౌన్\nది లైన్"
+}
+},
+"th" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ลง\nเส้น"
+}
+},
+"tr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Aşağı\nÇizgi"
+}
+},
+"uk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Вниз\nлінії"
+}
+},
+"vi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Xuống dòng"
+}
+},
+"zu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Phansi\nElayini"
+}
+}
+
+}
+},"txt_the_sum": {
+"extractionState" : "manual",
+"localizations" : {
+"en" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "The sum of %@ and %@ is %@"
+}
+},
+"af" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "La suma de %@ y ​​%@ es %@"
+}
+},
+"ar" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "مجموع %@ و %@ هو %@"
+}
+},
+"hy" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@-ի և %@-ի գումարը %@ է"
+}
+},
+"az" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ və %@ cəmi %@-dir"
+}
+},
+"eu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ eta %@ren batura %@ da"
+}
+},
+"be" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Сума %@ і %@ роўная %@"
+}
+},
+"bn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ এবং %@ এর যোগফল হল %@"
+}
+},
+"bg" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Сумата от %@ и %@ е %@"
+}
+},
+"my" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ နှင့် %@ ၏ပေါင်းလဒ်သည် %@"
+}
+},
+"ca" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "La suma de %@ i %@ és %@"
+}
+},
+"zh-rCN" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ 和 %@ 之和为 %@"
+}
+},
+"zh-rTW" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ 和 %@ 之和為 %@"
+}
+},
+"hr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Zbroj %@ i %@ je %@"
+}
+},
+"cs" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Součet %@ a %@ je %@"
+}
+},
+"da" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Summen af ​​%@ og %@ er %@"
+}
+},
+"nl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "De som van %@ en %@ is %@"
+}
+},
+"et" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ ja %@ summa on %@"
+}
+},
+"fi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ ja %@ summa on %@"
+}
+},
+"fr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "La somme de %@ et %@ est %@"
+}
+},
+"de" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Die Summe von %@ und %@ ist %@"
+}
+},
+"el" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Το άθροισμα των %@ και %@ είναι %@"
+}
+},
+"iw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "הסכום של %@ ו%@ הוא %@"
+}
+},
+"hi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ और %@ का योग %@ है"
+}
+},
+"hu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ és %@ összege %@"
+}
+},
+"is" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Summa %@ og %@ er %@"
+}
+},
+"id" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Jumlah %@ dan %@ adalah %@"
+}
+},
+"in" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Jumlah %@ dan %@ adalah %@"
+}
+},
+"it" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "La somma di %@ e %@ è %@"
+}
+},
+"ja" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ と %@ の合計は %@ です"
+}
+},
+"kn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ ಮತ್ತು %@ ಮೊತ್ತವು %@ ಆಗಿದೆ"
+}
+},
+"km" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ផលបូកនៃ %@ និង %@ គឺ %@"
+}
+},
+"ko" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@과 %@의 합은 %@입니다."
+}
+},
+"lo" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ຜົນລວມຂອງ %@ ແລະ %@ ແມ່ນ %@"
+}
+},
+"lv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ un %@ summa ir %@"
+}
+},
+"lt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ ir %@ suma yra %@"
+}
+},
+"mk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Збирот на %@ и %@ е %@"
+}
+},
+"ms" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Jumlah %@ dan %@ ialah %@"
+}
+},
+"ml" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@, %@ എന്നിവയുടെ ആകെത്തുക %@ ആണ്"
+}
+},
+"mr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ आणि %@ ची बेरीज %@ आहे"
+}
+},
+"mn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ ба %@-ийн нийлбэр нь %@ байна"
+}
+},
+"ne" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\n र %@ को योगफल\nहो"
+}
+},
+"nb" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Summen av %@ og %@ er %@"
+}
+},
+"fa" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "مجموع %@ و %@ %@ است"
+}
+},
+"pl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Suma %@ i %@ wynosi %@"
+}
+},
+"pt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "A soma de %@ e %@ é %@"
+}
+},
+"ro" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Suma %@ și %@ este %@"
+}
+},
+"ru" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Сумма %@ и %@ равна %@."
+}
+},
+"sr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Збир %@ и %@ је %@"
+}
+},
+"si" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ සහ %@ හි එකතුව %@ වේ"
+}
+},
+"sk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Súčet %@ a %@ je %@"
+}
+},
+"sl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Vsota %@ in %@ je %@"
+}
+},
+"es" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "La suma de %@ y ​​%@ es %@"
+}
+},
+"sw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Jumla ya %@ na %@ ni\n"
+}
+},
+"sv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Summan av %@ och %@ är %@"
+}
+},
+"te" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ మరియు %@ మొత్తం %@"
+}
+},
+"th" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ผลรวมของ %@ และ %@ คือ %@"
+}
+},
+"tr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "%@ ve %@ toplamı %@"
+}
+},
+"uk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Сума %@ і %@ дорівнює %@"
+}
+},
+"vi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tổng của %@ và %@ là %@"
+}
+},
+"zu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Isamba sika-\nkanye no-\nngu-\n"
+}
+}
+
+}
+},"txt_tap_to_continue": {
+"extractionState" : "manual",
+"localizations" : {
+"en" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tap to \"Continue\""
+}
+},
+"af" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Pulse para continuar\""
+}
+},
+"ar" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "إضغط للإستمرار\""
+}
+},
+"hy" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Հպեք \"Շարունակել\""
+}
+},
+"az" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"Davam etmək üçün toxunun\""
+}
+},
+"eu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sakatu \"Jarraitu\""
+}
+},
+"be" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Націсніце, каб \"Працягнуць\""
+}
+},
+"bn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"চালিয়ে যেতে\" ট্যাপ করুন"
+}
+},
+"bg" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Докоснете, за да \"Продължете\""
+}
+},
+"my" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"ဆက်လုပ်ရန် တို့ပါ\""
+}
+},
+"ca" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Toqueu per \"Continuar\""
+}
+},
+"zh-rCN" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "点击以 \"继续\""
+}
+},
+"zh-rTW" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "點選以 \"繼續\""
+}
+},
+"hr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Dodirnite za \"nastavak\""
+}
+},
+"cs" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Klepnutím \"Pokračovat\""
+}
+},
+"da" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tryk for at \"Fortsæt\""
+}
+},
+"nl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tik om \"Doorgaan\""
+}
+},
+"et" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Puudutage, et \"Jätka\""
+}
+},
+"fi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Napauta \"Jatka\""
+}
+},
+"fr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Appuyez pour \"Continuer\""
+}
+},
+"de" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tippen Sie, um fortzufahren\""
+}
+},
+"el" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Πατήστε για \"Συνέχεια\""
+}
+},
+"iw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "הקש כדי \"להמשיך\""
+}
+},
+"hi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "जारी रखने के लिए दबाएं\""
+}
+},
+"hu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Koppintson a \"Folytatáshoz\""
+}
+},
+"is" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Pikkaðu til að \"halda áfram\""
+}
+},
+"id" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ketuk untuk \"Lanjutkan\""
+}
+},
+"in" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ketuk untuk \"Lanjutkan\""
+}
+},
+"it" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tocca per continuare\""
+}
+},
+"ja" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "タップして\"続行\""
+}
+},
+"kn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"ಮುಂದುವರಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ\""
+}
+},
+"km" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ប៉ះដើម្បី \"បន្ត\""
+}
+},
+"ko" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"계속하려면 탭하세요\""
+}
+},
+"lo" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ແຕະເພື່ອ \"ສືບຕໍ່\""
+}
+},
+"lv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Pieskarieties, lai \"Turpināt\""
+}
+},
+"lt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Palieskite, jei norite \"Tęsti\""
+}
+},
+"mk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Допрете за \"Продолжи\""
+}
+},
+"ms" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Ketik untuk \"Teruskan\""
+}
+},
+"ml" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ടാപ്പുചെയ്യുക \"തുടരുക\""
+}
+},
+"mr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"सुरू ठेवण्यासाठी टॅप करा\""
+}
+},
+"mn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"Үргэлжлүүлэхийн тулд товшино уу\""
+}
+},
+"ne" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"जारी राख्न ट्याप गर्नुहोस्\""
+}
+},
+"nb" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Trykk for å \"fortsette\""
+}
+},
+"fa" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "برای \"ادامه\" ضربه بزنید"
+}
+},
+"pl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Kliknij, aby \"Kontynuować\""
+}
+},
+"pt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Clique para continuar\""
+}
+},
+"ro" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Apasă pentru a continua\""
+}
+},
+"ru" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Нажмите, чтобы продолжить\""
+}
+},
+"sr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Додирните да \"Наставите\""
+}
+},
+"si" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "තට්ටු කරන්න \"ඉදිරියට යන්න\""
+}
+},
+"sk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Klepnutím \"Pokračovať\""
+}
+},
+"sl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tapnite za \"Nadaljuj\""
+}
+},
+"es" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Pulse para continuar\""
+}
+},
+"sw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Gusa ili \"Endelea _"
+}
+},
+"sv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Klicka för att fortsätta\""
+}
+},
+"te" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"కొనసాగించు\" కోసం నొక్కండి"
+}
+},
+"th" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "แตะเพื่อ \"ดำเนินการต่อ\""
+}
+},
+"tr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "\"Devam etmek\" için dokunun"
+}
+},
+"uk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Торкніться, щоб \"Продовжити\""
+}
+},
+"vi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Nhấn để tiếp tục\""
+}
+},
+"zu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Thepha ukuze\nQhubeka\n"
+}
+}
+
+}
+},"txt_terms_and_conditions": {
+"extractionState" : "manual",
+"localizations" : {
+"en" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Terms & Conditions"
+}
+},
+"af" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Términos y condiciones"
+}
+},
+"ar" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "البنود و الظروف"
+}
+},
+"hy" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Պայմաններ եւ դրույթներ"
+}
+},
+"az" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Şərtlər və qaydalar"
+}
+},
+"eu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Baldintzak & Baldintzak"
+}
+},
+"be" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Умовы & Умовы"
+}
+},
+"bn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "শর্তাবলী"
+}
+},
+"bg" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Правила и условия"
+}
+},
+"my" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "စည်းမျဉ်းများနဲ့အခြေအနေများ"
+}
+},
+"ca" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Termes i Condicions"
+}
+},
+"zh-rCN" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "条款 & 条件"
+}
+},
+"zh-rTW" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "條款 & 條件"
+}
+},
+"hr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Uvjeti korištenja"
+}
+},
+"cs" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Všeobecné obchodní podmínky"
+}
+},
+"da" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Vilkår og Betingelser"
+}
+},
+"nl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Algemene voorwaarden"
+}
+},
+"et" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Tingimused"
+}
+},
+"fi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Käyttöehdot"
+}
+},
+"fr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Termes et conditions"
+}
+},
+"de" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Terms & amp; Bedingungen"
+}
+},
+"el" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Οροι και Προϋποθέσεις"
+}
+},
+"iw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "תנאים & תנאים"
+}
+},
+"hi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "नियम एवं शर्तें"
+}
+},
+"hu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Felhasználási feltételek"
+}
+},
+"is" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Skilmálar"
+}
+},
+"id" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Syarat & Ketentuan"
+}
+},
+"in" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Syarat & Ketentuan"
+}
+},
+"it" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Termini & Condizioni"
+}
+},
+"ja" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "規約 & 条件"
+}
+},
+"kn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ನಿಯಮ ಮತ್ತು ಶರತ್ತುಗಳು"
+}
+},
+"km" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "លក្ខខណ្ឌ & លក្ខខណ្ឌ"
+}
+},
+"ko" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "이용 약관 & 조건"
+}
+},
+"lo" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ເງື່ອນໄຂ & ເງື່ອນໄຂ"
+}
+},
+"lv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Noteikumi"
+}
+},
+"lt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Sąlygos ir nuostatos"
+}
+},
+"mk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Услови & Услови"
+}
+},
+"ms" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Terma & Syarat"
+}
+},
+"ml" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "നിബന്ധനകൾ & വ്യവസ്ഥകൾ"
+}
+},
+"mr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "अटी व शर्ती"
+}
+},
+"mn" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Нөхцөл & Нөхцөл"
+}
+},
+"ne" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "नियम तथा सर्त"
+}
+},
+"nb" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Betingelser og vilkår"
+}
+},
+"fa" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "شرایط و ضوابط"
+}
+},
+"pl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Zasady i Warunki"
+}
+},
+"pt" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Termos e Condições"
+}
+},
+"ro" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Termeni si conditii"
+}
+},
+"ru" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Условия & Условия"
+}
+},
+"sr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Услови коришћења"
+}
+},
+"si" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "නියමයන් & කොන්දේසි"
+}
+},
+"sk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Podmienky"
+}
+},
+"sl" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Pogoji uporabe"
+}
+},
+"es" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Términos y condiciones"
+}
+},
+"sw" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Masharti & Masharti"
+}
+},
+"sv" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Allmänna Villkor"
+}
+},
+"te" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "నిబంధనలు & షరతులు"
+}
+},
+"th" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "ข้อตกลงและเงื่อนไข"
+}
+},
+"tr" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Şartlar ve koşullar"
+}
+},
+"uk" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Умови & Умови"
+}
+},
+"vi" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Điều khoản và điều kiện"
+}
+},
+"zu" : {
+"stringUnit" : {
+"state" : "translated",
+"value" : "Imigomo nemibandela"
+}
+}
+
+}
+}
+},
+"version" : "1.0"
+}

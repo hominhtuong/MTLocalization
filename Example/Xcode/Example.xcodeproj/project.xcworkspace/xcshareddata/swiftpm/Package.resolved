@@ -1,0 +1,15 @@
+{
+  "originHash" : "613d3595048a7396454931ff92332d26c104ff9be05582f272ab08b99377164d",
+  "pins" : [
+    {
+      "identity" : "mitu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hominhtuong/MiTu.git",
+      "state" : {
+        "revision" : "3861030fec5bbc0a813e1d11b85020ce604f9db0",
+        "version" : "1.0.7"
+      }
+    }
+  ],
+  "version" : 3
+}

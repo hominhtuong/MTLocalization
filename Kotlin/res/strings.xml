@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="this_action_may_contain_ads">This action may contain ads…</string>
+</resources>

@@ -1,20 +1,19 @@
-# MTLocalization
+//
+//  ViewController.swift
+//  Example
+//
+//  Created by Hồ Minh Tường on 29/01/2024.
+//
 
-MTLocalization là tool được viết bằng python, tạo file `Localizable.xcstring`(String Catalog) cho Xcode.
-Ngoài ra còn hỗ trợ tạo các file `Strings.xml` cho Android và `arb` cho Flutter.
+import MiTu
+import UIKit
 
-## Cách sử dụng
-- Bước 1: Mở file `Example/Data/res_example.xlsx` bằng Google Sheet. Thông qua tính năng tự dịch, nhập ngôn ngữ cần dịch ở cột `Base (en)` và điền case id ở cột Text Key. Nhớ chỉnh sửa lại nếu có sai format, vì không phải lúc nào google dịch cũng đúng.
-- Bước 2: Tải file sheet vừa chỉnh sửa dưới dạng `.tsv` và đặt vào thư mục `res`.
-- Bước 3. Mở project XcodeLocalization, mở file `xcode_translate.py` và chỉnh sửa thông tin: `INPUT_FILE_NAME` và `directoryParent` sau đó nhấn `RUN`
-- Bước 4: Ở Xcode Project, kéo thư mục `Localization` vừa được tạo vào Project.
-- Bước 5: Cách dùng xem `Example`
-  (```MTText.txt_hello.localized```)
-- Bước 6: Chạy project Xcode và fix bug. ^^
+class ViewController: UIViewController {
 
-## Ví dụ:
-
-```ruby
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        view.backgroundColor = .white
+        
         let helloLabel = UILabel()
         helloLabel >>> view >>> {
             $0.snp.makeConstraints {
@@ -75,8 +74,7 @@ Ngoài ra còn hỗ trợ tạo các file `Strings.xml` cho Android và `arb` ch
             $0.text = MTText.txt_terms_and_conditions.localized
         }
     }
-```
 
-Kết quả:
 
-<img src="Example/Data/ss.png" width="390" alt="Demo">
+}
+
