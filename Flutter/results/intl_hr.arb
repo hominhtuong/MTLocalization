@@ -1,0 +1,7 @@
+{
+	"@@locale": "hr",
+	"txt_hello": "zdravo",
+	"txt_down_the_line": "Dolje %@",
+	"txt_the_sum": "Zbroj \"i \"je %@",
+	"txt_tap_to_continue": "Dodirnite za \"Nastavite\""
+}

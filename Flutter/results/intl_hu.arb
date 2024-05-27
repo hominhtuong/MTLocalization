@@ -1,0 +1,7 @@
+{
+	"@@locale": "hu",
+	"txt_hello": "Helló",
+	"txt_down_the_line": "Le a pályáról",
+	"txt_the_sum": "%@ és %@ összege %@",
+	"txt_tap_to_continue": "Érintse meg a \"Folytatás\" gombot"
+}

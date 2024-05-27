@@ -1,0 +1,7 @@
+{
+	"@@locale": "lt",
+	"txt_hello": "Sveiki",
+	"txt_down_the_line": "Žemyn\nlinija",
+	"txt_the_sum": "%@ ir %@ suma yra %@",
+	"txt_tap_to_continue": "Bakstelėkite \"Tęsti\""
+}

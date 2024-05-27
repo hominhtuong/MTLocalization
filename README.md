@@ -77,6 +77,11 @@ Ngoài ra còn hỗ trợ tạo các file `Strings.xml` cho Android và `arb` ch
     }
 ```
 
-Kết quả:
+**Data Mẫu:**
+
+<img src="Example/Data/data_example.png" alt="Demo">
+
+
+**Kết quả:**
 
 <img src="Example/Data/ss.png" width="390" alt="Demo">

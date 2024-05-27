@@ -1,0 +1,7 @@
+{
+	"@@locale": "fi",
+	"txt_hello": "Hei",
+	"txt_down_the_line": "Ruodussa",
+	"txt_the_sum": "%@- ja %@ -summa on %@",
+	"txt_tap_to_continue": "Napauta \"jatka\""
+}

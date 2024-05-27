@@ -1,0 +1,7 @@
+{
+	"@@locale": "vi",
+	"txt_hello": "Xin chào",
+	"txt_down_the_line": "Xuống\ndòng",
+	"txt_the_sum": "Tổng của %@ và %@ là %@",
+	"txt_tap_to_continue": "Nhấn để \"tiếp tục\""
+}

@@ -1,0 +1,7 @@
+{
+	"@@locale": "bg",
+	"txt_hello": "Здравейте",
+	"txt_down_the_line": "Надолу\nлинията",
+	"txt_the_sum": "Сумата от %@ и %@ е %@",
+	"txt_tap_to_continue": "Докоснете до \"Продължи\""
+}

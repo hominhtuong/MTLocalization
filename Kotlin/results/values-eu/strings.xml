@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">Agur</string>
+<string name="txt_down_the_line">Behera\nlerroa</string>
+<string name="txt_the_sum">%@ eta %@ batura %@ da</string>
+<string name="txt_tap_to_continue">Punteatu \"Jarraitu\"</string>
+</resources>

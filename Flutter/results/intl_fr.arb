@@ -1,0 +1,7 @@
+{
+	"@@locale": "fr",
+	"txt_hello": "Bonjour",
+	"txt_down_the_line": "Sur toute la ligne",
+	"txt_the_sum": "La somme de %@ et %@ est %@",
+	"txt_tap_to_continue": "Appuyez sur \"Continuer\""
+}

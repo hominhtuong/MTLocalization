@@ -1,0 +1,7 @@
+{
+	"@@locale": "uk",
+	"txt_hello": "Привіт",
+	"txt_down_the_line": "Вниз\nлінія",
+	"txt_the_sum": "Сума %@ і %@ - %@",
+	"txt_tap_to_continue": "Торкніться до \"Продовжити\""
+}

@@ -12,6 +12,7 @@ from shutil import rmtree
 
 #Let change it
 INPUT_FILE_NAME = "res/example.tsv"
+directoryParent = 'results/'
 
 line_header = None
 line_content = []
@@ -38,9 +39,6 @@ for lang in line_header:
     language_type_array.append(res)
 
 print(language_type_array)
-
-#Let change it
-directoryParent = 'results/'
 
 if os.path.exists(directoryParent):
     rmtree(directoryParent)

@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">ສະບາຍດີ</string>
+<string name="txt_down_the_line">ລົງ\nສາຍ</string>
+<string name="txt_the_sum">ຜົນລວມຂອງ %@ ແລະ %@ ແມ່ນ %@</string>
+<string name="txt_tap_to_continue">ແຕະໃສ່ \"ສືບຕໍ່\"</string>
+</resources>

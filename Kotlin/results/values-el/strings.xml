@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">Γειά σου</string>
+<string name="txt_down_the_line">Κάτω\nη γραμμή</string>
+<string name="txt_the_sum">Το άθροισμα των %@ και %@ είναι %@</string>
+<string name="txt_tap_to_continue">Πατήστε στο \"Συνεχίστε\"</string>
+</resources>

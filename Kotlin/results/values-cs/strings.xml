@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">Ahoj</string>
+<string name="txt_down_the_line">Dolů\nřádek</string>
+<string name="txt_the_sum">Součet %@ a %@ je %@</string>
+<string name="txt_tap_to_continue">Klepnutím na \"Pokračujte\"</string>
+</resources>

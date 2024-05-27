@@ -1,0 +1,7 @@
+{
+	"@@locale": "cs",
+	"txt_hello": "Ahoj",
+	"txt_down_the_line": "Dolů\nřádek",
+	"txt_the_sum": "Součet %@ a %@ je %@",
+	"txt_tap_to_continue": "Klepnutím na \"Pokračujte\""
+}

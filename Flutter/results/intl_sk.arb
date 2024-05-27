@@ -1,0 +1,7 @@
+{
+	"@@locale": "sk",
+	"txt_hello": "Ahoj",
+	"txt_down_the_line": "Dole čiarov",
+	"txt_the_sum": "Súčet %@ a %@ je %@",
+	"txt_tap_to_continue": "Klepnite na \"Pokračujte\""
+}

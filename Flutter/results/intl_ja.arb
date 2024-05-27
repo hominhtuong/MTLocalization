@@ -1,0 +1,7 @@
+{
+	"@@locale": "ja",
+	"txt_hello": "こんにちは",
+	"txt_down_the_line": "下\nライン",
+	"txt_the_sum": "%@と%@の合計は%@です",
+	"txt_tap_to_continue": "タップして\"続行\""
+}

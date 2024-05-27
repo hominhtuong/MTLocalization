@@ -2,8 +2,7 @@ import xmltodict
 import pandas as pd
 import xlsxwriter
 
-
-directoryParent = "Kotlin/res"
+directoryParent = "res"
 INPUT_FILE_NAME = directoryParent + "/strings.xml"
 RESULTS_PATH = directoryParent + "/data.xlsx"
 

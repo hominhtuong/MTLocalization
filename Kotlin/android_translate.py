@@ -11,7 +11,10 @@ from shutil import rmtree
 # ______ (6 underscores) -> &
 
 # Let change it
-INPUT_FILE_NAME = "Kotlin/res/example.tsv"
+INPUT_FILE_NAME = "res/example.tsv"
+directoryParent = 'results/'
+
+
 line_header = None
 line_content = []
 keys = []
@@ -37,9 +40,6 @@ for lang in line_header:
     language_type_array.append(res)
 
 print(language_type_array)
-
-# Let change it
-directoryParent = 'Kotlin/results/'
 
 if os.path.exists(directoryParent):
     rmtree(directoryParent)

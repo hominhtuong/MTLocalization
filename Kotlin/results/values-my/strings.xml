@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">မင်္ဂလာပါ</string>
+<string name="txt_down_the_line">\n လိုင်း\n</string>
+<string name="txt_the_sum">%@ နှင့် %@ ၏ပေါင်းလဒ်သည် %@ ဖြစ်သည်</string>
+<string name="txt_tap_to_continue">\"သို့အသာပုတ်ပါ\"</string>
+</resources>

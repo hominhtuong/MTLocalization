@@ -1,0 +1,7 @@
+{
+	"@@locale": "sv",
+	"txt_hello": "Hallå",
+	"txt_down_the_line": "Ner\nlinjen",
+	"txt_the_sum": "Summan av %@ och %@ är %@",
+	"txt_tap_to_continue": "Klicka för att fortsätta\""
+}

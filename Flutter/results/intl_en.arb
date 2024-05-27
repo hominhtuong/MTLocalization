@@ -1,0 +1,7 @@
+{
+	"@@locale": "en",
+	"txt_hello": "Hello",
+	"txt_down_the_line": "Down\nThe Line",
+	"txt_the_sum": "The sum of %@ and %@ is %@",
+	"txt_tap_to_continue": "Tap to \"Continue\""
+}

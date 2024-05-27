@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">Hei</string>
+<string name="txt_down_the_line">Ruodussa</string>
+<string name="txt_the_sum">%@- ja %@ -summa on %@</string>
+<string name="txt_tap_to_continue">Napauta \"jatka\"</string>
+</resources>

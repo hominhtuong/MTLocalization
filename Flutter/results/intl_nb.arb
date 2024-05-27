@@ -1,0 +1,7 @@
+{
+	"@@locale": "nb",
+	"txt_hello": "Hallo",
+	"txt_down_the_line": "Ned linjen",
+	"txt_the_sum": "Summen av %@ og %@ er %@",
+	"txt_tap_to_continue": "Trykk til \"Fortsett\""
+}

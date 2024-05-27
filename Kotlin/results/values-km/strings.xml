@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">ចមរាបសយរ</string>
+<string name="txt_down_the_line">ចុះ\nបន្ទាត់</string>
+<string name="txt_the_sum">ផលបូក %@ និង %@ គឺ %@</string>
+<string name="txt_tap_to_continue">ប៉ះទៅ \"បន្ត\"</string>
+</resources>

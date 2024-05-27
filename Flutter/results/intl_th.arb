@@ -1,0 +1,7 @@
+{
+	"@@locale": "th",
+	"txt_hello": "สวัสดี",
+	"txt_down_the_line": "ลง\nเส้น",
+	"txt_the_sum": "ผลรวมของ %@ และ %@ คือ %@",
+	"txt_tap_to_continue": "แตะที่ \"ดำเนินการต่อ\""
+}

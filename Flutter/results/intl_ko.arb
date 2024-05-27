@@ -1,0 +1,7 @@
+{
+	"@@locale": "ko",
+	"txt_hello": "안녕하세요",
+	"txt_down_the_line": "줄\n라인",
+	"txt_the_sum": "%@와 %@의 합은 %@입니다.",
+	"txt_tap_to_continue": "\"계속\"로 탭하십시오."
+}

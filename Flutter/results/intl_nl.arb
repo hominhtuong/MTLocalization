@@ -1,0 +1,7 @@
+{
+	"@@locale": "nl",
+	"txt_hello": "Hallo",
+	"txt_down_the_line": "Omlaag\nde lijn",
+	"txt_the_sum": "De som van %@ en %@ is %@",
+	"txt_tap_to_continue": "Tik op \"doorgaan\""
+}

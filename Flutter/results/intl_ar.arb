@@ -1,0 +1,7 @@
+{
+	"@@locale": "ar",
+	"txt_hello": "مرحبًا",
+	"txt_down_the_line": "تحت الخط",
+	"txt_the_sum": "مجموع %@ و %@ %@",
+	"txt_tap_to_continue": "إضغط للإستمرار\""
+}

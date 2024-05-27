@@ -1,0 +1,6 @@
+<resources>
+<string name="txt_hello">Hallo</string>
+<string name="txt_down_the_line">Omlaag\nde lijn</string>
+<string name="txt_the_sum">De som van %@ en %@ is %@</string>
+<string name="txt_tap_to_continue">Tik op \"doorgaan\"</string>
+</resources>
