@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Buna ziua</string>
-<string name="txt_down_the_line">Jos\nlinia</string>
-<string name="txt_the_sum">Suma %@ și %@ este %@</string>
-<string name="txt_tap_to_continue">Apasă pentru a continua\"</string>
-</resources>

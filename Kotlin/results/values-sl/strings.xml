@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">zdravo</string>
-<string name="txt_down_the_line">Dol\nvrstica</string>
-<string name="txt_the_sum">Vsota %@ in %@ je %@</string>
-<string name="txt_tap_to_continue">Dotaknite se \"nadaljevanje\"</string>
-</resources>

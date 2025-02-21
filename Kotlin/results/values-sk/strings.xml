@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Ahoj</string>
-<string name="txt_down_the_line">Dole čiarov</string>
-<string name="txt_the_sum">Súčet %@ a %@ je %@</string>
-<string name="txt_tap_to_continue">Klepnite na \"Pokračujte\"</string>
-</resources>

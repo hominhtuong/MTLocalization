@@ -11,7 +11,7 @@ from shutil import rmtree
 # ______ (6 underscores) -> &
 
 # Let change it
-INPUT_FILE_NAME = "res/example.tsv"
+INPUT_FILE_NAME = "res/spin.tsv"
 directoryParent = 'results/'
 
 
@@ -37,6 +37,7 @@ for lang in line_header:
         continue
     res = res[0]
     res = res.replace('(', '').replace(')', '')
+    res = res[:2]
     language_type_array.append(res)
 
 print(language_type_array)

@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Halló</string>
-<string name="txt_down_the_line">Niður\nlínuna</string>
-<string name="txt_the_sum">Summan af %@ og %@ er %@</string>
-<string name="txt_tap_to_continue">Pikkaðu á \"Haltu áfram\"</string>
-</resources>

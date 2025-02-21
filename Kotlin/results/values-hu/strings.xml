@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Helló</string>
-<string name="txt_down_the_line">Le a pályáról</string>
-<string name="txt_the_sum">%@ és %@ összege %@</string>
-<string name="txt_tap_to_continue">Érintse meg a \"Folytatás\" gombot</string>
-</resources>

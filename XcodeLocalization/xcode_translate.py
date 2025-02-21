@@ -11,13 +11,15 @@ from shutil import rmtree
 # ______ (6 underscores) -> &
 
 #Let change it
-INPUT_FILE_NAME = "res/example.tsv"
+INPUT_FILE_NAME = "res/cantraicay.tsv"
 directoryParent = 'results/'
 
 line_header = None
 line_content = []
 keys = []
-PASS_COLUMN = ['Text Key',]
+keywords = {}
+allCases = '\n'
+PASS_COLUMN = ['Group Keys', 'Text Keys',]
 language_type_array = PASS_COLUMN.copy()
 
 with open(INPUT_FILE_NAME, encoding="utf8") as file:
@@ -60,18 +62,22 @@ for idx, lang in enumerate(language_type_array):
 
         for i in range(len(line_content)):
             content = line_content[i]
+            keyword = content[0] + '_' + content[1]
+            if keyword not in keywords:
+                keywords[keyword] = keyword
+                allCases += '   case ' + keyword + '\n'
 
-            if idx >= len(content) or content[idx] == '#VALUE!' or content[idx] == '' or content[0] == '':
+            if idx >= len(content) or content[idx] == '#VALUE!' or content[idx] == '' or keyword == '':
                 continue
 
-            outfile.write('"' + content[0] + '": {\n')
+            outfile.write('"' + keyword + '": {\n')
             outfile.write('"extractionState" : "manual",\n')
             outfile.write('"localizations" : {\n')
 
             value = content[idx]
 
             for indexLang in range(len(language_type_array)):
-                if indexLang < 1:
+                if indexLang < len(PASS_COLUMN):
                     continue
                 outfile.write('"' + language_type_array[indexLang] + '" : {\n')
                 outfile.write('"stringUnit" : {\n')
@@ -116,30 +122,30 @@ for idx, lang in enumerate(language_type_array):
         outfile.close()
 
 # Create enum file
-allCases = '\n'
-for i in range(len(line_content)):
-    for caseIndex in range(len(line_content[i])):
-        case = line_content[i][caseIndex]
-        if caseIndex == 0:
-            allCases += '   case ' + case + '\n'
-        else:
-            break
+# allCases = '\n'
+# for i in range(len(line_content)):
+#     for caseIndex in range(len(line_content[i])):
+#         case = line_content[i][caseIndex]
+#         if caseIndex == 0:
+#             allCases += '   case ' + case + '\n'
+#         else:
+#             break
 
-with codecs.open(directoryParent + '/' + 'MTText.swift', 'w', 'utf-8') as mtutext:
+with codecs.open(directoryParent + '/' + 'MKText.swift', 'w', 'utf-8') as mtutext:
     mtutext.write('''//
-//  MTText.swift
+//  MKText.swift
 //
         
 import UIKit
         
-enum MTText: String {
+enum MKText: String {
         ''')
 
     mtutext.write(allCases)
     mtutext.write('''
 }
 
-extension MTText {
+extension MKText {
     var text: String {
         return rawValue
     }

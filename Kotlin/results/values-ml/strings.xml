@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">ഹലോ</string>
-<string name="txt_down_the_line">താഴേക്ക്\nലൈൻ</string>
-<string name="txt_the_sum">%@, %@ എന്നിവയുടെ ആകെത്തുക %@</string>
-<string name="txt_tap_to_continue">\"തുടരുക\"</string>
-</resources>

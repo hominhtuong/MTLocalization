@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Здравейте</string>
-<string name="txt_down_the_line">Надолу\nлинията</string>
-<string name="txt_the_sum">Сумата от %@ и %@ е %@</string>
-<string name="txt_tap_to_continue">Докоснете до \"Продължи\"</string>
-</resources>

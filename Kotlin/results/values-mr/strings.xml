@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">नमस्कार</string>
-<string name="txt_down_the_line">रेषेच्या खालच्या बाजूला</string>
-<string name="txt_the_sum">%@ आणि %@ ची बेरीज %@ आहे</string>
-<string name="txt_tap_to_continue">\"वर टॅप करा\"</string>
-</resources>

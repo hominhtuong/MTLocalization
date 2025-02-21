@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Здраво</string>
-<string name="txt_down_the_line">Доле\nлинија</string>
-<string name="txt_the_sum">Збир %@ и %@ је %@</string>
-<string name="txt_tap_to_continue">Тапните на \"Настави\"</string>
-</resources>

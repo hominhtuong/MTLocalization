@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Sveiki</string>
-<string name="txt_down_the_line">Žemyn\nlinija</string>
-<string name="txt_the_sum">%@ ir %@ suma yra %@</string>
-<string name="txt_tap_to_continue">Bakstelėkite \"Tęsti\"</string>
-</resources>

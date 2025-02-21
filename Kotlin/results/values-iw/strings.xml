@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">שלום</string>
-<string name="txt_down_the_line">למטה\nהקו</string>
-<string name="txt_the_sum">סכום %@ ו- %@ הוא %@</string>
-<string name="txt_tap_to_continue">הקש על \"המשך\"</string>
-</resources>

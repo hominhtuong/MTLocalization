@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">హలో</string>
-<string name="txt_down_the_line">డౌన్\nలైన్</string>
-<string name="txt_the_sum">%@ మరియు %@ మొత్తం %@</string>
-<string name="txt_tap_to_continue">\"కొనసాగించడానికి \"కొనసాగించండి</string>
-</resources>

@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Hola</string>
-<string name="txt_down_the_line">Abajo de la línea</string>
-<string name="txt_the_sum">La suma de %@ y ​​%@ es %@</string>
-<string name="txt_tap_to_continue">Pulse para continuar\"</string>
-</resources>

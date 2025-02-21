@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Բարեւ</string>
-<string name="txt_down_the_line">Ներքեւ\nգիծը</string>
-<string name="txt_the_sum">%@ եւ %@- ի գումարը %@</string>
-<string name="txt_tap_to_continue">Հպեք \"Շարունակեք\"</string>
-</resources>

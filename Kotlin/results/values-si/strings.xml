@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">ආයුබෝවන්</string>
-<string name="txt_down_the_line">පහළට\nරේඛාව</string>
-<string name="txt_the_sum">%@ සහ %@ හි එකතුව %@</string>
-<string name="txt_tap_to_continue">\"සමඟ \"ඉදිරියට යන්න</string>
-</resources>

@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">سلام</string>
-<string name="txt_down_the_line">پایین خط</string>
-<string name="txt_the_sum">مجموع %@ و %@ %@ است</string>
-<string name="txt_tap_to_continue">به \"ادامه دهید\"</string>
-</resources>

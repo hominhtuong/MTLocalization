@@ -1,6 +1,0 @@
-<resources>
-<string name="txt_hello">Salam</string>
-<string name="txt_down_the_line">Aşağı\nxətti</string>
-<string name="txt_the_sum">%@ və %@ cəmi %@</string>
-<string name="txt_tap_to_continue">\"Davam et\"</string>
-</resources>
